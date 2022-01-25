@@ -12,8 +12,7 @@
       "id": 1440,
       "name": "Trilokanath Panicker",
       "email": "panicker_trilokanath@paucek-rath.net",
-      "gender": "female",
-      "status": "active"
+      "gender": "female"
     },
     {
       "id": 1439,
@@ -25,7 +24,6 @@
     {
       "id": 1438,
       "name": "Chitrangada Rana",
-      "email": "chitrangada_rana@turcotte.co",
       "gender": "male",
       "status": "active"
     },
