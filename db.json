@@ -1,23 +1,24 @@
-"ShoppingCartOrder":{
+{
 	"ShoppingCartOrder": {
-		"Order": "D01-8127020-6200600",
-		"PlacedOn": "2017-10-21",
-		"Item": [{
-			"Description": "A Product for Everyone",
-			"Code": "D01-8127020-6200600-1-1",
-			"Price": 13.69,
-			"Quantity": 1
-		}],
-		"Shipment": [{
-			"Arriving": "2017-10-23",
-			"DeliveryAddress": {
-				"City": "Swindon",
-				"County": "Wiltshire",
-				"Line1": "76 Godwin Road",
-				"Line2": "Stratton",
-				"PostCode": "SN34XG"
-			}
-		}]
+		"ShoppingCartOrder": {
+			"Order": "D01-8127020-6200600",
+			"PlacedOn": "2017-10-21",
+			"Item": [{
+				"Description": "A Product for Everyone",
+				"Code": "D01-8127020-6200600-1-1",
+				"Price": 13.69,
+				"Quantity": 1
+			}],
+			"Shipment": [{
+				"Arriving": "2017-10-23",
+				"DeliveryAddress": {
+					"City": "Swindon",
+					"County": "Wiltshire",
+					"Line1": "76 Godwin Road",
+					"Line2": "Stratton",
+					"PostCode": "SN34XG"
+				}
+			}]
+		}
 	}
-}
 }
